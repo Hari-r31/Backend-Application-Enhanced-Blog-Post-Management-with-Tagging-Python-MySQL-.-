@@ -1,10 +1,3 @@
-Absolutely, Hari Sai Kumar! Here's a complete and clean **README.md** for your blog CLI project. You can save this as `README.md` in your project folder — it's great for sharing on GitHub or keeping as documentation.
-
----
-
-### 📄 `README.md`
-
-```markdown
 # 📝 Blog CLI Manager (Python + MySQL)
 
 A simple command-line blog post manager built with **Python** and **MySQL**.  
@@ -145,8 +138,3 @@ This project is for educational purposes and personal use. No license is applied
 **Hari Sai Kumar Thatholu**  
 Learning Python + MySQL CLI Dev
 
-```
-
----
-
-Let me know if you want help pushing this to GitHub or want a zipped version of your project (Python + SQL + README).
